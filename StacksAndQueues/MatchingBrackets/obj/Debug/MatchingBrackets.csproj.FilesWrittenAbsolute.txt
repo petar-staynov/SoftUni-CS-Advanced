@@ -1,5 +1,0 @@
-/home/user/RiderProjects/C#-Advanced/StacksAndQueues/MatchingBrackets/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/user/RiderProjects/C#-Advanced/StacksAndQueues/MatchingBrackets/bin/Debug/MatchingBrackets.pdb
-/home/user/RiderProjects/C#-Advanced/StacksAndQueues/MatchingBrackets/bin/Debug/MatchingBrackets.exe
-/home/user/RiderProjects/C#-Advanced/StacksAndQueues/MatchingBrackets/obj/Debug/MatchingBrackets.exe
-/home/user/RiderProjects/C#-Advanced/StacksAndQueues/MatchingBrackets/obj/Debug/MatchingBrackets.pdb
