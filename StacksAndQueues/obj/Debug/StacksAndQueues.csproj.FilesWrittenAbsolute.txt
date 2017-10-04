@@ -1,5 +1,0 @@
-/home/user/RiderProjects/C#-Advanced/StacksAndQueues/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/user/RiderProjects/C#-Advanced/StacksAndQueues/bin/Debug/StacksAndQueues.pdb
-/home/user/RiderProjects/C#-Advanced/StacksAndQueues/bin/Debug/StacksAndQueues.exe
-/home/user/RiderProjects/C#-Advanced/StacksAndQueues/obj/Debug/StacksAndQueues.exe
-/home/user/RiderProjects/C#-Advanced/StacksAndQueues/obj/Debug/StacksAndQueues.pdb

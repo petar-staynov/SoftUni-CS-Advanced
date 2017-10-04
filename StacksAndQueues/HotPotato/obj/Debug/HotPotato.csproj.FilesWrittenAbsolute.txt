@@ -1,0 +1,5 @@
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/HotPotato/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/HotPotato/bin/Debug/HotPotato.pdb
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/HotPotato/bin/Debug/HotPotato.exe
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/HotPotato/obj/Debug/HotPotato.exe
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/HotPotato/obj/Debug/HotPotato.pdb
