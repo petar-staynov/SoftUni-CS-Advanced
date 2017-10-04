@@ -1,0 +1,5 @@
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/ReverseStrings/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/ReverseStrings/bin/Debug/ReverseStrings.pdb
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/ReverseStrings/bin/Debug/ReverseStrings.exe
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/ReverseStrings/obj/Debug/ReverseStrings.exe
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/ReverseStrings/obj/Debug/ReverseStrings.pdb

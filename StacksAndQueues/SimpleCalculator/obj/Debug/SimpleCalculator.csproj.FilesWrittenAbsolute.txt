@@ -1,0 +1,5 @@
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/SimpleCalculator/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/SimpleCalculator/bin/Debug/SimpleCalculator.pdb
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/SimpleCalculator/bin/Debug/SimpleCalculator.exe
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/SimpleCalculator/obj/Debug/SimpleCalculator.exe
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/SimpleCalculator/obj/Debug/SimpleCalculator.pdb

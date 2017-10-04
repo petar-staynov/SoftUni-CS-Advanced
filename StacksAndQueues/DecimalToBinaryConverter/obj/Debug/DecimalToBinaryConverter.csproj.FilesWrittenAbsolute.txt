@@ -1,0 +1,5 @@
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/DecimalToBinaryConverter/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/DecimalToBinaryConverter/bin/Debug/DecimalToBinaryConverter.pdb
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/DecimalToBinaryConverter/bin/Debug/DecimalToBinaryConverter.exe
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/DecimalToBinaryConverter/obj/Debug/DecimalToBinaryConverter.exe
+/home/user/RiderProjects/C#-Advanced/StacksAndQueues/DecimalToBinaryConverter/obj/Debug/DecimalToBinaryConverter.pdb
