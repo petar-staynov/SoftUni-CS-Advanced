@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.0.0
-MinimumVisualStudioVersion = 10.0.0.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseNumbersWithStack", "ReverseNumbersWithStack\ReverseNumbersWithStack.csproj", "{A849F36E-375B-454A-91EE-FA08DA8FCA05}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicStackOperations", "BasicStackOperations\BasicStackOperations.csproj", "{93278C65-8D53-46E5-865B-EC4A50DBB5E0}"
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicQueueOperations", "BasicQueueOperations\BasicQueueOperations.csproj", "{0D714D3F-D13A-473C-9FE2-D5F008C2A69F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceWithQueue", "SequenceWithQueue\SequenceWithQueue.csproj", "{645B502C-2FDB-48F4-9C4D-6D1A18ECA707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckTour", "TruckTour\TruckTour.csproj", "{04B63142-CC22-4D76-83D1-7B4D6E90D940}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{645B502C-2FDB-48F4-9C4D-6D1A18ECA707}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{645B502C-2FDB-48F4-9C4D-6D1A18ECA707}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{645B502C-2FDB-48F4-9C4D-6D1A18ECA707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04B63142-CC22-4D76-83D1-7B4D6E90D940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B63142-CC22-4D76-83D1-7B4D6E90D940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B63142-CC22-4D76-83D1-7B4D6E90D940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B63142-CC22-4D76-83D1-7B4D6E90D940}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
