@@ -27,30 +27,41 @@ namespace TruckTour
             }
 
             //QUEUE TRAVELER
-            var possible = true;
             var index = 0;
             for (int i = 0; i < n; i++)
             {
-                var currFuel = fuels.Dequeue();
-                var currDist = distances.Dequeue();
+                var possible = true;
 
-                var difference = currFuel - currDist;
-                if (difference < 0)
+                var totalFuel = 0;
+                var totalDist = 0;
+
+                //Starts running in circle from top element.
+                for (int j = 0; j < n; j++)
                 {
-                    fuels.Enqueue(currFuel);
+                    var currFuel = fuels.Dequeue();
+                    var currDist = distances.Dequeue();
+                    totalDist += currDist;
+                    totalFuel += currFuel;
+
                     distances.Enqueue(currDist);
-                    index++;
-                    continue;
+                    fuels.Enqueue(currFuel);
+                    if (totalDist > totalFuel) //Marks current run as impossible
+                    {
+                        possible = false;
+                    }
                 }
 
-
-                for (int j = 0; j < n - 1; j++)
+                //If run is impossible increase index and spin the circle 1 time. Else return the first possible index
+                if (possible == false)
                 {
-                    var distTotal = 0;
-                    var fuelTotal = 0;
-
-
-                    currFuel -= currDist;
+                    index++;
+                    fuels.Enqueue(fuels.Dequeue());
+                    distances.Enqueue(distances.Dequeue());
+                }
+                else
+                {
+                    Console.WriteLine(index);
+                    return;
                 }
             }
         }
