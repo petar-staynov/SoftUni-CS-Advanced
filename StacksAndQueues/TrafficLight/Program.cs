@@ -15,26 +15,25 @@ namespace TrafficLight
 
             int passed = 0;
 
-            while (true)
+            string command = Console.ReadLine();
+            while (command != "end")
             {
-                string car = Console.ReadLine();
-                if (car == "end")
-                {
-                    Console.WriteLine(passed + " cars passed the crossroads.");
-                    break;
-                }
-                if (car == "green")
+                if (command == "green")
                 {
                     for (int i = 0; i < greenPass; i++)
                     {
+                        if (queue.Count == 0) break;
                         Console.WriteLine(queue.Dequeue() + " passed!");
                         passed++;
-                        if (queue.Count == 0) break;
                     }
-                    continue;
                 }
-                queue.Enqueue(car);
+                else
+                {
+                    queue.Enqueue(command);
+                }
+                command = Console.ReadLine();
             }
+            Console.WriteLine(passed + " cars passed the crossroads.");
         }
     }
 }
