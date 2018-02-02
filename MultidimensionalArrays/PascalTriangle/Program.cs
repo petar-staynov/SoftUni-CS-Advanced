@@ -47,7 +47,6 @@ namespace PascalTriangle
                     long newCol = topLeft + top;
                     jaggedList[row].Add(newCol);
                 }
-
                 Console.WriteLine(string.Join(" ", jaggedList[row]));
             }
         }
