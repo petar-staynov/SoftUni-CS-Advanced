@@ -96,30 +96,6 @@ namespace RubikMatrix
                         matrix[rowCol, 0] = temp;
                     }
                 }
-
-//                //Matrix Printer
-//                for (int row = 0; row < rows; row++)
-//                {
-//                    for (int col = 0; col < cols; col++)
-//                    {
-//                        Console.Write(matrix[row, col] + " ");
-//                    }
-//
-//                    Console.WriteLine();
-//                }
-//            }
-
-
-//                Console.WriteLine("FINAL MATRIX:");
-//            for (int row = 0; row < rows; row++)
-//            {
-//                for (int col = 0; col < cols; col++)
-//                {
-//                    Console.Write(matrix[row, col] + " ");
-//                }
-//
-//                Console.WriteLine();
-//            }
             }
 
             //Swapper
@@ -128,8 +104,6 @@ namespace RubikMatrix
             {
                 for (int col = 0; col < cols; col++)
                 {
-                    //Console.WriteLine($"NumMustBe = {numMustBe}, NumIs = {matrix[row, col]} ");
-
                     //Check if matrix num is like original matrix num
                     if (matrix[row, col] != numMustBe)
                     {

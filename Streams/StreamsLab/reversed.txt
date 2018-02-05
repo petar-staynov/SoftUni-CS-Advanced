@@ -1,0 +1,34 @@
+;cireneG.snoitcelloC.metsyS gnisu
+;qniL.metsyS gnisu
+;txeT.metsyS gnisu
+;sksaT.gnidaerhT.metsyS gnisu
+;OI.metsyS gnisu
+
+baLsmaertS ecapseman
+{
+margorP ssalc    
+{    
+)sgra ][gnirts(niaM diov citats        
+{        
+))"sc.margorP/../.."(redaeRmaertS wen = maerts rav( gnisu            
+{            
+;1 = enil tni                
+;)(eniLdaeR.maerts = gnirtSenil gnirts                
+
+))"txt.desrever/../.."(retirWmaertS wen = maertSetirw rav( gnisu                
+{                
+)llun =! ))(eniLdaeR.maerts = gnirtSenil(( elihw                    
+{                    
+)--i ;0 => i ;1 - htgneL.gnirtSenil = i tni( rof                        
+{                        
+;)]i[gnirtSenil(etirW.maertSetirw                            
+}                        
+
+;)(eniLetirW.maertSetirw                        
+}                    
+}                
+;)0(tixE.tnemnorivnE                
+}            
+}        
+}    
+}
